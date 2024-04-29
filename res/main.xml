@@ -1,0 +1,73 @@
+<?xml version='1.0'?>
+<DevRes>
+	<Images>
+		<Res id="start" path="Work/Common/Icons/start.png"/>
+		<Res id="stop" path="Work/Common/Icons/stop.png"/>
+		<Res id="apple" path="Work/Common/Icons/apple.png"/>
+		<Res id="pear" path="Work/Common/Icons/pear.png"/>
+		<Res id="banana" path="Work/Common/Icons/banana.png"/>
+		<Res id="gameover" path="Work/CPProjects/Snake/res/img/gameover.png"/>
+		<Res id="ok" path="Work/Common/Icons/ok.png"/>
+		<Res id="nok" path="Work/Common/Icons/nok.png"/>
+		<Res id="track" path="Work/CPProjects/Snake/res/img/track.png"/>
+		<Res id="track1" path="Work/Common/Icons/track1.png"/>
+		<Res id="cactus1" path="Work/CPProjects/Snake/res/img/cactus1.png"/>
+		<Res id="cactus2" path="Work/CPProjects/Snake/res/img/cactus2.png"/>
+		<Res id="cactus3" path="Work/CPProjects/Snake/res/img/cactus3.png"/>
+		<Res id="big_cactus1" path="Work/CPProjects/Snake/res/img/big_cactus1.png"/>
+		<Res id="big_cactus2" path="Work/CPProjects/Snake/res/img/big_cactus2.png"/>
+		<Res id="big_cactus3" path="Work/CPProjects/Snake/res/img/big_cactus3.png"/>
+		<Res id="cloud" path="Work/CPProjects/Snake/res/img/cloud.png"/>
+		<Res id="dino" path="Work/CPProjects/Snake/res/img/dino.png"/>
+		<Res id="dino" path="Work/Common/Icons/dino.png"/>
+		<!--<Res id="dino1" path="Work/Common/Icons/dino_run1.png"/>-->
+		<Res id="dino1" path="Work/CPProjects/Snake/res/img/dino_run1.png"/>
+		<Res id="dino2" path="Work/CPProjects/Snake/res/img/dino_run2.png"/>
+		<Res id="dinojump" path="Work/CPProjects/Snake/res/img/dino_jump.png"/>
+		<Res id="dinoslide1" path="Work/CPProjects/Snake/res/img/dino_slide1.png"/>
+		<Res id="dinoslide2" path="Work/CPProjects/Snake/res/img/dino_slide2.png"/>
+		<Res id="birdfly1" path="Work/CPProjects/Snake/res/img/bird_fly1.png"/>
+		<Res id="birdfly2" path="Work/CPProjects/Snake/res/img/bird_fly2.png"/>
+		<Res id="dinodead" path="Work/CPProjects/Snake/res/img/dino_dead.png"/>
+		<Res id="title" path="Work/CPProjects/Snake/res/img/title.png"/>
+
+		<Res id="11" path="Work/CPProjects/Snake/res/img/11.png"/>
+		<Res id="12" path="Work/CPProjects/Snake/res/img/12.png"/>
+		<Res id="13" path="Work/CPProjects/Snake/res/img/13.png"/>
+
+		<Res id="21" path="Work/CPProjects/Snake/res/img/21.png"/>
+		<Res id="22" path="Work/CPProjects/Snake/res/img/22.png"/>
+		<Res id="23" path="Work/CPProjects/Snake/res/img/23.png"/>
+		<Res id="24" path="Work/CPProjects/Snake/res/img/24.png"/>
+		<Res id="25" path="Work/CPProjects/Snake/res/img/25.png"/>
+		<Res id="26" path="Work/CPProjects/Snake/res/img/26.png"/>
+
+		<Res id="d1" path="Work/CPProjects/Snake/res/img/dino1.png"/>
+		<Res id="d2" path="Work/CPProjects/Snake/res/img/dino2.png"/>
+		<Res id="d3" path="Work/CPProjects/Snake/res/img/dino3.png"/>
+		<Res id="d4" path="Work/CPProjects/Snake/res/img/dino4.png"/>
+		
+
+
+
+
+	</Images>
+	
+    <Symbols>   
+		<Res id="snake" path="Work/Common/Symbols/Shapes/SnakeHead.xml"/>
+		<Res id="snakeOM" path="Work/Common/Symbols/Shapes/SnakeHeadOM.xml"/>
+		<Res id="snakeBody" path="Work/Common/Symbols/Shapes/SnakeBody.xml"/>
+    </Symbols>
+	
+	<Sounds>
+		<Res id="background" path="Work/Common/Sounds/LeavesRustling.wav"/>
+		<Res id="eatFood" path="Work/Common/Sounds/AppleEating.wav"/>
+		<Res id="gameOver" path="Work/Common/Sounds/GameOver.wav"/>
+		<Res id="jump" path="Work/Common/Sounds/jump.wav"/>
+		<Res id="die" path="Work/Common/Sounds/die.wav"/>
+		<Res id="point" path="Work/Common/Sounds/point.wav"/>
+		<Res id="rundinorun" path="Work/Common/Sounds/rundinorun.wav"/>
+
+	</Sounds>
+</DevRes>
+
